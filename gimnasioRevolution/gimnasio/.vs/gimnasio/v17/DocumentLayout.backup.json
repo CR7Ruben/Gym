@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\administradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\clientepormembresiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\clientepormembresiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\detallesclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\detallesclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\membresiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\membresiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\viewclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\viewclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\models\\viewdetallesclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:models\\viewdetallesclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\controllers\\viewdetallesclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\viewdetallesclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CC211A-D778-4CA4-8F59-3753528580F8}|..\\gimnasioTests\\gimnasioTests.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasiotests\\membresiacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasio\\controllers\\membresiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BAFE04-4678-448C-8F19-1251C603F36E}|gimnasio.csproj|solutionrelative:controllers\\membresiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CC211A-D778-4CA4-8F59-3753528580F8}|..\\gimnasioTests\\gimnasioTests.csproj|c:\\users\\ragon\\onedrive\\escritorio\\gym\u002Btesting\\gimnasiorevolution\\gimnasiotests\\administradorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\clienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\clienteController.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\clienteController.cs",
+              "RelativeToolTip": "Controllers\\clienteController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:36:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "administradorModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\administradorModel.cs",
+              "RelativeDocumentMoniker": "Models\\administradorModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\administradorModel.cs",
+              "RelativeToolTip": "Models\\administradorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:48.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\clienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\clienteModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\clienteModel.cs",
+              "RelativeToolTip": "Models\\clienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:47.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clientePorMembresiaModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\clientePorMembresiaModel.cs",
+              "RelativeDocumentMoniker": "Models\\clientePorMembresiaModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\clientePorMembresiaModel.cs",
+              "RelativeToolTip": "Models\\clientePorMembresiaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "detallesClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\detallesClienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\detallesClienteModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\detallesClienteModel.cs",
+              "RelativeToolTip": "Models\\detallesClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:42.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "administradorController.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\administradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\administradorController.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\administradorController.cs",
+              "RelativeToolTip": "Controllers\\administradorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:34:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "viewClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\viewClienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\viewClienteModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\viewClienteModel.cs",
+              "RelativeToolTip": "Models\\viewClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "viewDetallesClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\viewDetallesClienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\viewDetallesClienteModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\viewDetallesClienteModel.cs",
+              "RelativeToolTip": "Models\\viewDetallesClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:35:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T05:35:19.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewDetallesClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\viewDetallesClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\viewDetallesClienteController.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\viewDetallesClienteController.cs",
+              "RelativeToolTip": "Controllers\\viewDetallesClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:34:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "membresiaModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\membresiaModel.cs",
+              "RelativeDocumentMoniker": "Models\\membresiaModel.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Models\\membresiaModel.cs",
+              "RelativeToolTip": "Models\\membresiaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:15:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:33:48.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "membresiaController.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\membresiaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\membresiaController.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasio\\Controllers\\membresiaController.cs",
+              "RelativeToolTip": "Controllers\\membresiaController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawEYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:45:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MembresiaControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasioTests\\MembresiaControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\gimnasioTests\\MembresiaControllerTest.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasioTests\\MembresiaControllerTest.cs",
+              "RelativeToolTip": "..\\gimnasioTests\\MembresiaControllerTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:49:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "administradorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasioTests\\administradorControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\gimnasioTests\\administradorControllerTests.cs",
+              "ToolTip": "C:\\Users\\ragon\\OneDrive\\Escritorio\\Gym\u002BTesting\\gimnasioRevolution\\gimnasioTests\\administradorControllerTests.cs",
+              "RelativeToolTip": "..\\gimnasioTests\\administradorControllerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:51:27.586Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
